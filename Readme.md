@@ -2,6 +2,7 @@ Basic OpenCart AutoComplete for PHPStorm
 -
 **Based on OpenCart version 3.0.3.2**
 
+but some section does not work correctly....for example ... $this->....
 
 Install Steps
 -
