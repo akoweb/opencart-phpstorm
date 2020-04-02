@@ -9,6 +9,7 @@ Open **File > Settings... (Ctrl+Alt+S) > Language & Frameworks > PHP** and add t
 
 [![Install Steps](https://drive.google.com/uc?export=view&id=1tEEdhN5eqBVicQCDmEZoXyzTgmQHZSFd "Install Steps")](https://drive.google.com/uc?export=view&id=1tEEdhN5eqBVicQCDmEZoXyzTgmQHZSFd "Install Steps")
 
+but some section does not work correctly....for example ... $this->....
 
 ScreenShots
 -
